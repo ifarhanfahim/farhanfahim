@@ -17,7 +17,7 @@ body {
   display: flex;
   justify-content: center;
 	
-  color: #e1e1f1;
+  color: #E0E0E0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -33,7 +33,7 @@ body {
   font-size: 12rem;
   text-transform: uppercase;
   font-weight: 900;
-  -webkit-text-stroke: 2px #181c2c;
+  -webkit-text-stroke: 2px #151E2D;
   -webkit-text-fill-color: transparent;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   z-index: -1;
@@ -55,7 +55,7 @@ a {
 
 .sosmed i {
   font-size: 1.5rem;
-  color: #8787a3;
+  color: #BABEBF;
 }
 
 .sosmed i:hover {
@@ -87,11 +87,11 @@ ul.links li:not(:last-child) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #181c2c;
+  background-color: #151E2D;
   gap: 1rem;
   padding: 1rem;
   border-radius: 30px;
-  border: 2px solid #181c2c;
+  border: 2px solid #151E2D;
 }
 
 .link-card:hover {
@@ -117,7 +117,7 @@ ul.links li:not(:last-child) {
 }
 
 .link-action {
-  color: #8787a3;
+  color: #BABEBF;
   cursor: pointer;
   padding: 10px;
 }
@@ -128,7 +128,7 @@ ul.links li:not(:last-child) {
   flex-direction: column;
   align-items: center;
   gap: 0.5rem;
-  color: #8787a3;
+  color: #BABEBF;
   font-size: 0.75rem;
 }
 
@@ -145,7 +145,7 @@ ul.links li:not(:last-child) {
 
 .toast-container {
   background-color: white;
-  color: #0f0f25;
+  color: #151E2D;
   padding: 1rem;
   margin-top: 1rem;
   border-radius: 1rem;
