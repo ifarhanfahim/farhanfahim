@@ -90,7 +90,7 @@ ul.links li:not(:last-child) {
   background-color: #151E2D;
   gap: 1rem;
   padding: 1rem;
-  border-radius: 30px;
+  border-radius: 40px;
   border: 2px solid #151E2D;
 }
 
