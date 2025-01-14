@@ -96,7 +96,7 @@ ul.links li:not(:last-child) {
 
 .link-card:hover {
   border: 2px Mirage;
-  transform: scale(1.04);
+  transform: scale(1.05);
 }
 
 .links .link-icon {
